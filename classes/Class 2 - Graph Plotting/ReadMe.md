@@ -1,6 +1,6 @@
 # Class 2 — Basics of Graph Plotting
 
-https://youtu.be/Fs-RhOFYFgY
+[![Video Thumbnail](https://img.youtube.com/vi/Fs-RhOFYFgY/0.jpg)](https://www.youtube.com/watch?v=Fs-RhOFYFgY)
 
 ## Overview
 This class introduces graph plotting as a way of understanding how a function behaves, rather than just memorizing standard graph shapes. The focus is on building intuition from domain, range, symmetry, monotonicity, anchor points, end behavior, and function transformations.

@@ -1,4 +1,8 @@
-# Class 3 — Simple Harmonic Motion
+# Class 3 — Simple Harmonic Motion (1)
+
+
+[![Video Thumbnail](https://img.youtube.com/vi/CqXPBicM0m8/0.jpg)](https://www.youtube.com/watch?v=CqXPBicM0m8)
+
 
 ## Overview
 This class introduces the basic ideas of periodic motion, oscillation, and simple harmonic motion (SHM). The main goal is to connect the physical mechanism of oscillation with its mathematical description.

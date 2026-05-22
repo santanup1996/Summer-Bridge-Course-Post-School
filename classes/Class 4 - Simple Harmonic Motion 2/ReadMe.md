@@ -1,5 +1,9 @@
 # Class 4 — Simple Harmonic Motion (Part 2)
 
+
+[![Video Thumbnail](https://img.youtube.com/vi/OCIsqrxS_os/0.jpg)](https://www.youtube.com/watch?v=OCIsqrxS_os)
+
+
 ## Overview
 This class continues the discussion of simple harmonic motion by focusing on time period, frequency, phase, phase difference, numerical applications, and mechanical energy.
 
